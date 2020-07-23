@@ -1,4 +1,5 @@
-{
-  "id":1,
-  "name":"navya"
-}
+[{"email":"navyasreekv777@gmail.com","password":"1234"},
+ {"email":"navya@gmail.com","password":"pbkdf2_sha256$150000$l0d5bi5mzC37$D6Kb9NKagKOLDJdBKNB78M0PnxXozIoOgKrvXV7G3VE="},
+ {"email":"navyasree@gmail.com","password":"pbkdf2_sha256$150000$53jh9YYcCMQd$t4GoM1DsnEc8/uo8M7Ym441QcWFYqua9SY2CP2yzcqE="},
+ {"email":"naya@gmail.com","password":"1234"}
+]
